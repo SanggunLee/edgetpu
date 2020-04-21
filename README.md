@@ -1,3 +1,10 @@
+# Why I Fork this repository from google?
+I have a problem to use this source because my office use proxy(fire wall) and I cannot use bazel.
+I can fix bazel proxy problem, but I have no time.
+I should use this code tomorrow... so I am working this job in my home.
+I writed this for visitors.
+no special codes here.
+
 # Edge TPU Python API
 
 This repository contains an easy-to-use Python API to work with Coral devices:
